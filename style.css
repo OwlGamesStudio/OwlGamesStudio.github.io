@@ -1,0 +1,36 @@
+html
+{
+	background-image : url("background.png");
+	padding : 50px;
+}
+
+h1
+{
+	text-align : center;
+	font-familly : "CharlemagneStd-Bold";
+	color : white;
+}
+
+p
+{
+	text-align : center;
+	font-style : italic;
+	color : white;
+}
+
+#logo
+{
+	margin-left : auto;
+	margin-right : auto;
+	display : block;
+}
+
+a:visited
+{
+	color : white;
+}
+
+a
+{
+	color : white;
+}
