@@ -1,0 +1,11 @@
+- name: 2048+
+  android: https://play.google.com/store/apps/details?id=org.cocos2dx.OwlGames_2048
+  icon: 2048.png
+  ios: https://itunes.apple.com/us/app/2048/id1442119741?mt=8
+
+- name: Laser Maze
+  android: https://play.google.com/store/apps/details?id=fr.OwlGames.LaserMaze
+  icon: lasermaze.png
+  ios: https://itunes.apple.com/us/app/2048/id1442119741?mt=8
+
+
